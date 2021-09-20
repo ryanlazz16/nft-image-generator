@@ -1,4 +1,4 @@
-const ids = ['english', 'chinese', 'spanish', 'hindi', 'arabic', 'portugese', 'russian', 'japanese', 'javanese', 'german', 'korean', 'french', 'telugu', 'italian', 'tagalog'];
+const ids = ['english', 'chinese', 'spanish', 'hindi', 'arabic', 'portuguese', 'russian', 'japanese', 'javanese', 'german', 'korean', 'french', 'telugu', 'italian', 'tagalog'];
 let elements = [];
 
 for (let i = 0; i<ids.length; i++) {
