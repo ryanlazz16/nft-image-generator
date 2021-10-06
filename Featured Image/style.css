@@ -1,0 +1,20 @@
+#btn {
+  margin: 20px;
+}
+
+#bg {
+  background-color: black;
+  width: 2400px;
+  height: 1600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  font-size: 50px;
+  color: white;
+}
+
+/*# sourceMappingURL=style.css.map */
