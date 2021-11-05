@@ -2,6 +2,8 @@
 # file for current NFT
 /"Python Scripts"/number.txt
 
+.vscode
+
 # misc
 .DS_Store
 .env.local
